@@ -1,3 +1,4 @@
+@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css);
 body, html {
     background-color: #070707; 
 }
@@ -8,10 +9,11 @@ body, html {
     font-size: 20px;
     background-color: transparent;
     border: none;
+    font-family: "Do Hyeon", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 #top-panel-buttons:hover {
-    color: #1686E8;
+    color: #9b16e8;
 }
 
 /* About */
@@ -22,16 +24,23 @@ body, html {
     color:white;
     overflow: auto;
     font-size: 16px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-family: "Do Hyeon", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 /* Q&A */
 #question{
     color: white;
+    font-family: "Do Hyeon", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 #answer{
     color: #4F5051;
+    font-family: "Do Hyeon", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#contact {
+    color: yellow;
+    font-family: "Do Hyeon", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 /* Others */
